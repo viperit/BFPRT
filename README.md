@@ -20,9 +20,11 @@ BFPRT algorithm
             print(topN(array,1)) 
             print(topN(array,0))
             print(topN(array,5))
+        outputs:
             [0, 2, 3]
             [0]
             []
             [0, 1, 2, 3, 4]
+其他用例请见代码
     
 如需求的第n大的数，修改132-139行即可
