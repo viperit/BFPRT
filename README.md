@@ -19,7 +19,6 @@ example1:
     print(topN(array,1)) 
     print(topN(array,0))
     print(topN(array,5))
-    
     [0, 2, 3]
     [0]
     []
